@@ -1,3 +1,4 @@
+<img width="1434" height="490" alt="Gemini_Generated_Image_7zjh7f7zjh7f7zjh (1)" src="https://github.com/user-attachments/assets/4c02bd78-03eb-453d-9eba-9306a7eb4dea" />
 <div align="center">
 
 # 🎯 OSIRIS Tracking
