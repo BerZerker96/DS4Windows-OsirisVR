@@ -118,6 +118,4 @@ Released under the **GNU General Public License v3.0**, same as DS4Windows. See 
 
 <div align="center">
 
-*Made for people who'd rather look where they aim.* 🎯
-
 </div>
