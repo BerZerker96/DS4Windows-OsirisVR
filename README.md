@@ -5,7 +5,7 @@
 # 🎯 OSIRIS Tracking
 ### DS4Windows, but your **head** is the gyro.
 
-A fork of [DS4Windows](https://github.com/schmaldeo/DS4Windows) that streams **VR headset motion over UDP** straight into your controller's gyro — so any game with gyro aiming now follows your head or change the gyro to output as right analog stick for universal 3DOF.
+A fork of [DS4Windows](https://github.com/schmaldeo/DS4Windows) that streams **VR headset motion over UDP** straight into your controller's gyro — so any game with gyro aiming now follows your head or change the gyro to output as right analog stick for universal 3DOF camera control in all games and emulators.
 
 ![Platform](https://img.shields.io/badge/platform-Windows%2010%2B-0078D6?logo=windows&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-8.0-512BD4?logo=dotnet&logoColor=white)
